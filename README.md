@@ -37,7 +37,7 @@ Add badges to your Profile and Projects.
      - [Music](#-music)
      - [Office](#-office)
      - [Operating System](#%EF%B8%8F-operating-system)
-     - [ORM](#-orm)
+     - [](#-)
      - [Other](#-other)
      - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
      - [Search Engines](#search-engines)
@@ -334,7 +334,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 📑 Documentation Platforms
+### 📑 Documentation Platfs
 
 | Name      | Badge                                                                                                                 | Markdown                                                                                                                |
 | --------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -395,7 +395,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 📚 Frameworks, Platforms and Libraries
+### 📚 Frameworks, Platfs and Libraries
 
 | Name               | Badge                                                                                                                                           | Markdown                                                                                                                                          |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -823,6 +823,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 
 | Name      | Badge                                                                                                          | Markdown                                                                                                         |
 | --------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Drizzle   | ![Drizzle](https://img.shields.io/badge/Drizzle-%23C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black)          | `![Drizzle](https://img.shields.io/badge/Drizzle-%23C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black)`          |
 | Hibernate    | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)          | `![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)`          |
 | Prisma    | ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)          | `![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)`          |
 | Sequelize | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) | `![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)` |
